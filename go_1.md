@@ -5,6 +5,7 @@
 ## 初始化：
 
 我们在终端用  go mod init  [自己随便起]
+例如： go mod init pakzat
 
 ------
 
