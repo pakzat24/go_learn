@@ -32,4 +32,5 @@
 ### 重点：
 
 ### 跨文件调用时，函数名开头必须是大写字母。
-###[下一篇---变量与常量](https://github.com/pake0224/go_learn/blob/main/go_2%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E2%80%94%E5%8F%98%E9%87%8F%E4%B8%8E%E5%B8%B8%E9%87%8F.md)
+### [下一篇---变量与常量](https://github.com/pake0224/go_learn/blob/main/go_2%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E2%80%94%E5%8F%98%E9%87%8F%E4%B8%8E%E5%B8%B8%E9%87%8F.md)
+
